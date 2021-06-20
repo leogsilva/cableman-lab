@@ -1,0 +1,3 @@
+.vagrant
+secrets.txt
+syntropy-agent/u1-values-valid.yaml syntropy-agent/u2-values-valid.yaml syntropy-agent/u3-values-valid.yaml
